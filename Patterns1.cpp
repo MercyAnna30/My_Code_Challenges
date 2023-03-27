@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//Making a triangle pattern
 int main()
 {
     int n, i, j;
